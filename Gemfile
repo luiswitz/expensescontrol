@@ -10,7 +10,7 @@ end
 gem 'koine-attributes'
 gem 'nurse-rb'
 gem 'pg'
-gem 'puma', '~> 3.0'
+gem 'puma', '~> 4.3'
 gem 'rails', '~> 5.2.3'
 gem 'rubocop', '~> 0.74.0', require: false
 
